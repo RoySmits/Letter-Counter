@@ -1,0 +1,12 @@
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.exe.config
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.exe
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.pdb
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.Form1.resources
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.Properties.Resources.resources
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.csproj.GenerateResource.Cache
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.exe
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.pdb
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.exe.manifest
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.application
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.exe.manifest
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.application
