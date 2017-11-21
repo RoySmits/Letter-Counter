@@ -10,3 +10,4 @@ C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Rel
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Release\LetterCounter.application
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.exe.manifest
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.application
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Release\LetterCounter.csproj.CoreCompileInputs.cache

@@ -1,7 +1,6 @@
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe.config
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Debug\LetterCounter.pdb
-C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csprojResolveAssemblyReference.cache
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.Form1.resources
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.Properties.Resources.resources
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csproj.GenerateResource.Cache
@@ -11,3 +10,4 @@ C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Deb
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\bin\Debug\LetterCounter.application
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.exe.manifest
 C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.application
+C:\Users\roy.smits\Desktop\School opdrachten\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csproj.CoreCompileInputs.cache
